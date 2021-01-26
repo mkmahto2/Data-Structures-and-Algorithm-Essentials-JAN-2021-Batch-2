@@ -18,7 +18,7 @@ s = obj.findsum(a, b)
 
 print("Sum is:", s)
 ~~~
-##Question 2
+## Question 2
 Define a function swap that should swap two values and print the swapped variables outside the
 swap function.
 
